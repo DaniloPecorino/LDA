@@ -17,7 +17,7 @@ from nltk.stem import WordNetLemmatizer, SnowballStemmer
 from nltk.stem.porter import *
 import numpy as np
 np.random.seed(2018)
-
+import pandas as pdx
 import nltk
 
 #   Run this before download nltk data /Applications/Python 3.6/Install Certificates.command
